@@ -1,6 +1,6 @@
 # Hello World👋! I'm joeymsu ![](https://komarev.com/ghpvc/?username=joeymsu)
 
-Currently persuing a degree in Computer Science at Michigan State University with a minor in pure mathematics. Focused on machine learning, data analysis, and the development of intelligent systems using Python. Experienced with core libraries and tools such as Pandas, NumPy, Matplotlib, Seaborn, PyTorch, and Jupyter Notebook. Proficient in handling structured data, managing datasets, visualizing trends, leveraging version control using Git, and building reproducible notebooks for collaborative research.
+Currently pursuing a degree in Computer Science at Michigan State University with a minor in pure mathematics. Focused on machine learning, data analysis, and the development of intelligent systems using Python. Experienced with core libraries and tools such as Pandas, NumPy, Matplotlib, Seaborn, PyTorch, and Jupyter Notebook. Proficient in handling structured data, managing datasets, visualizing trends, leveraging version control using Git, and building reproducible notebooks for collaborative research.
 
 -   Michigan State University's Honors College, Professorial Assistantship researcher
 -   Skilled in statistical analysis, model evaluation, and Python-based experimentation
